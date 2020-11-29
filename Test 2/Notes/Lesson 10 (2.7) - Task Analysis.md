@@ -30,16 +30,16 @@ Strengths of GOMS model:
 1. Formalize user interaction into steps - Interaction steps to measure for efficiency. Helps to narrow down the time for each steps. Finding areas of improvement. Count time for each operator, easy to get keychain while holding something in hand.
 
 
-### Types of GOMS
-KLM - GOMS -> Keystroke level model
+## Types of GOMS
+
+KLM GOMS Keystroke level model
 	- here operator + execution time - efficiency determination
-	- original work had 6 types of operators, wont work on modern ideas
-Card, Moran and Newell GOMS *CMN GOMS*
+	- original work had 6 types of operators, wont work on modern ideas Card, Moran and Newell GOMS *CMN GOMS*
 	- Hierarchical Goals and choose multiple goals
 	- Very low level goals (moving text,delete phrases)
 	- Model how long each individual GOMS to take
-		- Find place which we can cut out
-N GOMSL - Natural language GOMS
+	- Find place which we can cut out
+NGOMSL (Natural GOMS language)
 	- Working memory if exploited can be identified
 	- lends itself for human interpretation.
 
