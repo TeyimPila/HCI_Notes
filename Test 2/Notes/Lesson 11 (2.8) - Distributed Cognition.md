@@ -79,6 +79,8 @@ Differences and Similarities between Activity Theory, Situated Action and Distri
 - Activity theor focuses on users motives beyond just their goals
 - Situated action focuses on ad-hoc improvisation 
 
+In summary, the interaction and interface is not only between a user and their task, but they exist in a greater context
+
 ## Important Videos
 2,4,5,6,10,12,13,15
 
