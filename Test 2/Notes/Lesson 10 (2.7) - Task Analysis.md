@@ -114,11 +114,15 @@ Strengths:
 	- Unlike GOMS, emphasis on whats goes on users head
 2. Formal enough to for interface design
 	- Easy to communicate
+
 Weaknesses:
 
-1. Time-intensive - They involve talking and systemtic analysis of data
-2. May deemphasize context - Role of artifacts and details in world
-3. Ill-suited for novices - Whos try to use an interface.
+1. Time-intensive 
+	- They involve talking and systemtic analysis of data
+2. May deemphasize context 
+	- Role of artifacts and details in world
+3. Ill-suited for novices 
+	- Whos try to use an interface.
 
 ### Other task analysis
 
