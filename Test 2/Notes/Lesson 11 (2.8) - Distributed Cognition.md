@@ -73,6 +73,12 @@ Task to Activity theory
 4. Activity theory is similar to learning curves, where an action, after being learned can become an operator. E.g for a novice, chaning gears is a action that has the aformentioned operators. Meanwhile for experts, chaning gears is just a single operator
 5. Activity theory is also similar to disappearing interfaces because interfaces vanish as expertise increase
 
+Differences and Similarities between Activity Theory, Situated Action and Distributed Cognition
+- The commonality between all these theories is on their emphasis on context in nintegrated systems
+- Distributed congnition is concerned with how a system of users, interfaces and artifacts all work together to accomplish a goal
+- Activity theor focuses on users motives beyond just their goals
+- Situated action focuses on ad-hoc improvisation 
+
 ## Important Videos
 2,4,5,6,10,12,13,15
 
