@@ -69,7 +69,9 @@ Task to Activity theory
 
 1. Activity theory generalizes our unit of analysis from the task to the activity; we're not just interested in what users doing but why users are doing it
 2. Activity theory puts an emphasis on the idea that we can create low level operations from higher level actions
-3. Activity theory points out that actions by the user can actually move up and down a hierarchy
+3. Activity theory points out that actions by the user can actually move up and down a hierarchy (Activity --> Actions --> Operators). For example, the Activity of driving, has an action of changing gears, which for novices has operators of finding the gear control, grabbing it, and shifting gears
+4. Activity theory is similar to learning curves, where an action, after being learned can become an operator. E.g for a novice, chaning gears is a action that has the aformentioned operators. Meanwhile for experts, chaning gears is just a single operator
+5. Activity theory is also similar to disappearing interfaces because interfaces vanish as expertise increase
 
 ## Important Videos
 2,4,5,6,10,12,13,15
