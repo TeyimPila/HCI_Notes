@@ -33,15 +33,16 @@ Strengths of GOMS model:
 ## Types of GOMS
 
 KLM GOMS Keystroke level model
-	- here operator + execution time - efficiency determination
-	- original work had 6 types of operators, wont work on modern ideas Card, Moran and Newell GOMS *CMN GOMS*
-	- Hierarchical Goals and choose multiple goals
-	- Very low level goals (moving text,delete phrases)
-	- Model how long each individual GOMS to take
-	- Find place which we can cut out
+- here operator + execution time - efficiency determination
+- original work had 6 types of operators, wont work on modern ideas Card, Moran and Newell GOMS *CMN GOMS*
+- Hierarchical Goals and choose multiple goals
+- Very low level goals (moving text,delete phrases)
+- Model how long each individual GOMS to take
+- Find place which we can cut out
+
 NGOMSL (Natural GOMS language)
-	- Working memory if exploited can be identified
-	- lends itself for human interpretation.
+- Working memory if exploited can be identified
+- lends itself for human interpretation.
 
 ## 5 Tips: Developing GOMS Models
 
