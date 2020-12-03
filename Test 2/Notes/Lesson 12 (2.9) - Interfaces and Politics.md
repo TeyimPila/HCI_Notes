@@ -1,4 +1,4 @@
-# Lesson 12
+# Lesson 2.9: Interfaces and Politics
 
 In this lesson, we will cover interfaces and politics:
 -Langdon winner - techincal devices have politics? Create change in world.
