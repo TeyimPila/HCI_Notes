@@ -1,4 +1,4 @@
-# Lesson 11
+# Lesson 2.8: Distributed Cognition
 
 In this lesson, we will look into the four models of context/theories surrounding HCI:
 
