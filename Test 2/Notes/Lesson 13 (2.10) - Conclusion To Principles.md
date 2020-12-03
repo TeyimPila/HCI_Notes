@@ -1,4 +1,4 @@
-# Lesson 13
+# Lesson 2.10: Conclusion To Principles
 
 In this lesson, we will attempt to tie together all the different threads on design principles.
 
